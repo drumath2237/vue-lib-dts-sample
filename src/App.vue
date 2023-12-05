@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { HelloMessage } from "@/components"
+import { HelloMessage } from "./components"
 </script>
 
 <template>
